@@ -4,7 +4,7 @@ Hi 👋 My name is Luis Guilherme
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer and hacking since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is make applications that impact the life of thousands of users.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilherme1208moraes@gmail.com]
